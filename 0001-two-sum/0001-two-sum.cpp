@@ -9,6 +9,6 @@ public:
               return {mpp[moreNeeded],i};
               mpp[arr[i]]=i;   
         }
-        return{};
+      return {-1,-1};  
     }
 };
