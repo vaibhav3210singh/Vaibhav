@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhav3210singh/Vaibhav/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/vaibhav3210singh/Vaibhav/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
