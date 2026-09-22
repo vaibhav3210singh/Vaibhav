@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
