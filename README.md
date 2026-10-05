@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0014-longest-common-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhav3210singh/Vaibhav/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
