@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -86,8 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
