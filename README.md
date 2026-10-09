@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -46,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -110,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
