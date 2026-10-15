@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
