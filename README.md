@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
