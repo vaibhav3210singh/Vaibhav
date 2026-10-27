@@ -8,9 +8,6 @@ public:
         if(n==2) {
              return second;
              }
-             else if(first>=second){
-                return first;
-             }
-             return second;
+             return max(first,second);
     }
 };
