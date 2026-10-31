@@ -2,11 +2,12 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& arr) {
         int longest=1;
-        int n=arr.size();
+         int n = arr.size();
+        if(n==0) return 0;
+       
         set<int>st;
-        if(n==0){
-            return 0;
-        }
+        if(n==0)return 0;
+        
         for(int i=0;i<n;i++){
       st.insert(arr[i]);
         }
