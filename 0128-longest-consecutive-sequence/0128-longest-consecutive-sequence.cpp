@@ -6,7 +6,7 @@ public:
         if(n==0) return 0;
        
         unordered_set<int>st;
-        if(n==0)return 0;
+        
         
         for(int i=0;i<n;i++){
       st.insert(arr[i]);
