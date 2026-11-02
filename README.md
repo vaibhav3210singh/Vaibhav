@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
