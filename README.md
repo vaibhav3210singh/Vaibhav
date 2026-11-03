@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0628-maximum-product-of-three-numbers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhav3210singh/Vaibhav/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
