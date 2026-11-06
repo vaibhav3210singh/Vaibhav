@@ -2,7 +2,7 @@ class Solution {
 public:
     bool judgeSquareSum(int c) {
        long first= 0;
-      long second =int(sqrt(c));
+      int second =int(sqrt(c));
        while(first<=second){
            long number = first*first + second*second;
            if(number == c){
