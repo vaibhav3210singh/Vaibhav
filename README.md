@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2733-neither-minimum-nor-maximum](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2733-neither-minimum-nor-maximum](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
