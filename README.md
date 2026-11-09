@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2733-neither-minimum-nor-maximum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
