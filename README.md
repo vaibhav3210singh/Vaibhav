@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/1748-sum-of-unique-elements) |
