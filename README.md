@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0605-can-place-flowers) |
 ## String
 |  |
 | ------- |
