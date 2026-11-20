@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0605-can-place-flowers) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vaibhav3210singh/Vaibhav/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
